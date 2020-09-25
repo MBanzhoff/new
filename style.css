@@ -1,0 +1,34 @@
+body {background-color: lightgreen;}
+
+
+#carouselExampleControls {
+height: 400px;
+width: 400px;
+margin:auto;
+padding-bottom: 300px;
+
+
+}
+
+
+
+
+.cardrow {
+
+    margin-top: 20px;
+    display: flex;
+}
+
+.column {
+
+    flex: 50%;
+    padding: 20px
+
+}
+
+#carouselExampleControls {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+
+}
